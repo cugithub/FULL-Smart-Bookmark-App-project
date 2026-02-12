@@ -1,0 +1,22 @@
+smart-bookmark-app/
+│
+├── app/
+│   ├── layout.js
+│   ├── page.js
+│   ├── dashboard/
+│   │   └── page.js
+│
+├── components/
+│   ├── LoginButton.js
+│   ├── BookmarkForm.js
+│   ├── BookmarkList.js
+│
+├── lib/
+│   └── supabaseClient.js
+│
+├── styles/
+│   └── globals.css
+│
+├── .env.local
+├── package.json
+└── README.md
